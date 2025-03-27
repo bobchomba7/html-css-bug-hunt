@@ -28,7 +28,7 @@ nav a {
     padding: 10px 20px;
     border none;  /* ERROR: Missing colon */
     cursor: pointer;
-    text-decoration: non;  /* ERROR: Incorrect value */
+    text-decoration: none;  /* Fixed spelling error */
     border-radius: 5px;
 }
 
